@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://thelukzilla.github.io/teste_CT-dos_boxers/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
